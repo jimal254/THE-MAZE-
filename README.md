@@ -8,7 +8,7 @@ About SDL2
 Simple DirectMedia Layer is a cross-platform development library designed to provide low level access to audio, keyboard, mouse, joystick, and graphics hardware via OpenGL and Direct3D. It is used by video playback software, emulators, and popular games including Valve's award winning catalog and many Humble Bundle games.
 
 Installation
-$ git clone https://github.com/jimal/The-Maze-.git
+$ git clone https://github.com/jimal254/The-Maze-.git
 
 Usage
 ~ Execute ./maze or type make run
