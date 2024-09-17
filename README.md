@@ -20,13 +20,14 @@ It is commonly used in video playback software, emulators, and popular games, in
 ## 🛠️ Installation
 
 Clone the repository:
-
 ```bash
-git clone https://github.com/jimal254/The-Maze.git
+git clone https://github.com/jimal254/The-Maze.git.
+```
 
 ## Compilation
 To compile the game, use the following command:
 
+```bash
 $ gcc -Wall -Werror -Wextra -pedantic ./src/*.c -lm -o maze `sdl2-config --cflags` `sdl2-config --libs`;
 ```
 ## 🎮 Usage
@@ -66,8 +67,8 @@ ALX-Africa: This project is part of the ALX-Africa Full-Stack Software Engineeri
 ALX Staff: For the guidance, support, and resources throughout the journey.
 Cohort 22: For the camaraderie, collaboration, and shared insights over the past year.
 You: For taking the time to play the game and explore the code. Your interest and feedback are greatly appreciated!
-# 🌟 Support
-If you found this project interesting or useful, please consider giving it a ⭐️ on GitHub! You can also follow me for more exciting projects and updates.
+## 🌟 Support
+If you found this project interesting or useful, please consider giving it a [⭐️ on GitHub!](https://github.com/jimal254?tab=repositories) You can also follow me for more exciting projects and updates.
 
-This is the entire README formatted as one block of code, ready to be used for your project. Let me know if you need further edits!
+
 
