@@ -25,10 +25,11 @@ Clone the repository:
 git clone https://github.com/jimal254/The-Maze.git
 
 ## Compilation
-```sh
+To compile the game, use the following command:
+
 $ gcc -Wall -Werror -Wextra -pedantic ./src/*.c -lm -o maze `sdl2-config --cflags` `sdl2-config --libs`;
 ```
-# 🎮 Usage
+## 🎮 Usage
 ./maze
 Alternatively, you can use the make run command if you have make configured.
 
