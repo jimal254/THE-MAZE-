@@ -54,7 +54,7 @@ To run the game, simply execute the following:
 ## Demo
 [![The Maze Demo](https://i.imgur.com/5Ss7s1S.png)](https://www.youtube.com/embed/6T2N8gNUTQ8)
 
-👨‍💻 Author
+## 👨‍💻 Author
 Jimmy Maina
 GitHub
 LinkedIn
