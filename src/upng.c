@@ -1221,3 +1221,4 @@ const unsigned char* upng_get_buffer(const upng_t* upng)
 unsigned upng_get_size(const upng_t* upng)
 {
 	return upng->size;
+}
