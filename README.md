@@ -61,14 +61,6 @@ Jimmy Maina
 GitHub
 LinkedIn
 
-# 📝 License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-# 🙏 Acknowledgements
-ALX-Africa: This project is part of the ALX-Africa Full-Stack Software Engineering curriculum.
-ALX Staff: For the guidance, support, and resources throughout the journey.
-Cohort 22: For the camaraderie, collaboration, and shared insights over the past year.
-You: For taking the time to play the game and explore the code. Your interest and feedback are greatly appreciated!
 ## 🌟 Support
 If you found this project interesting or useful, please consider giving it a ⭐️ [GitHub!](https://github.com/jimal254?tab=repositories) You can also follow me for more exciting projects and updates.
 
