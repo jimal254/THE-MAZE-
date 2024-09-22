@@ -1,1 +1,13 @@
-gcc -Wall -Wextra -pedantic ./src/*.c -lm -o maze `sdl2-config --cflags` `sdl2-config --libs`;
+CC = gcc
+CFLAGS = -Wall -Wextra -pedantic
+SOURCES = ./src/*.c
+OBJECTS = $(SOURCES:.c=.o)
+TARGET = maze
+
+all: $(TARGET)
+
+$(TARGET): $(OBJECTS)
+    $(CC) $(CFLAGS) -lm -o $@ $^
+
+clean:
+    rm -f $(OBJECTS) $(TARGET)
