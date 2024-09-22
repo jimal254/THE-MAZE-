@@ -7,7 +7,7 @@ TARGET = maze
 all: $(TARGET)
 
 $(TARGET): $(OBJECTS)
-    $(CC) $(CFLAGS) -lm -o $@ $^
+	$(CC) $(CFLAGS) -lm -o $@ $^ -lupng
 
 clean:
-    rm -f $(OBJECTS) $(TARGET)
+	rm -f $(OBJECTS) $(TARGET)
